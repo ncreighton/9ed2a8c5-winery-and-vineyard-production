@@ -1,2 +1,31 @@
-# 9ed2a8c5-winery-and-vineyard-production
-A Notion workspace for wineries, craft beverage producers, and vineyard managers overseeing production operations and regulatory compliance. Features a vintage batch tracker with cellar log entries, grape sourcing database with tonnage and brix records, production schedule with tank allocation planning, TTB compliance checklist with federal and sta
+# Winery and Vineyard Production Management and Compliance Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/cNi14ncLl0bWf445bucZa1r)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/cNi14ncLl0bWf445bucZa1r)
+- [Buy on Gumroad](https://mythicalgamer2.gumroad.com/l/hqullp)
+- [Buy on Whop](https://whop.com/winery-and-vineyard-production-management-and-compliance-notion-template)
+
